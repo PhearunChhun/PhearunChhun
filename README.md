@@ -18,9 +18,11 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in fulls
 
 ## 🧰 Projects I'm Proud Of
 
-- 🔐 **[Ecommerce]
+- 📊 **[Ecommerce]
 - 📊 **[HR-System]
-- 🧠 **[Admin Dashboard]
+- 📊 **[Admin Dashboard]
+- 📊 **[E-commerce website]
+- 📊 **[Business website]
 
 ---
 
