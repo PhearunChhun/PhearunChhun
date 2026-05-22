@@ -43,7 +43,8 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in fulls
 ## 📫 How to Reach Me
 
 - Email: phearunchhun11@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/phearun-chhun-583897233/](https://www.linkedin.com/in/phearun-chhun-583897233/)
+- LinkedIn: [https://www.linkedin.com/in/phearun-chhun-583897233/](https://www.linkedin.com/in/phearun-chhun-583897233
+- Portfolio: [https://phearun-dev.vercel.app]
 <!-- - Portfolio: [yourwebsite.com](https://yourwebsite.com) -->
 
 ---
